@@ -1,8 +1,9 @@
 # Speed-Typing-Game
-Do a speed typing test!
+Do a speed typing test using this project!
 
-Want explanation? Go to my YouTube channel for explanation!
-
+A practice project to increase my CSS and JavaScript skills.
 Contributing would be a major help to me from you!
 
-Thanks :D
+To install this, Click on the `Code` button and download the **.zip** file.
+
+Thanks 😉
